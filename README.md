@@ -1,1 +1,1 @@
-YOLOv8 INT8 TFLite Inference Example (#7317)
+ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
